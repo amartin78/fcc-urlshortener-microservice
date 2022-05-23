@@ -16,7 +16,7 @@
 	  "cryptiles": "^4.1.3",
 	  "tunnel-agent": "^0.6.0",
 	  "request": "^2.88.0",
-	  "hawk": "^7.0.10",
+	  "hawk": "^9.0.1",
 	  "hoek": "^6.1.3"
 	},
 	"engines": {
